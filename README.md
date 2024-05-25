@@ -28,5 +28,3 @@ An IoT device management system using STM32, ARM, and CubeMX.
 
 ## 💬 Let's connect!
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me!
-
-![Seyyah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seyyah&show_icons=true&theme=radical)
